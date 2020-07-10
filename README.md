@@ -9,7 +9,7 @@ The speed of snake will increase after eating food.
 
 You can download the game by following the below steps-
 
-1)  Open  [ GAME folder]
+1)  Open  [ GAME ]  folder
 2)  Open  [SnakeGame.cpython-38]
 3)  Click to  [download]  at right side of you
 
