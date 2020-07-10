@@ -175,7 +175,7 @@ def gameloop():
 
             if score % 20 == 19:
                 if abs(snk_x - apple) < 8 and abs(snk_y - berry) < 8:
-                    score += 10
+                    score += 20
                     apple = random.randint(20, 500)
                     berry = random.randint(20, 400)
                     fps += 5
