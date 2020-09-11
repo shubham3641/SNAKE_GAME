@@ -1,5 +1,5 @@
 # SNAKE_GAME
-This is my first project in which a build snake game.
+This is my first project in which I build snake game.
 I made the head of snake to find the direction of game.
 In this game a made two type of scoring at different level.
 At level or score between 0 to 19 after eating food score increase by 1.
